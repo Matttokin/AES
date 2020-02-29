@@ -1,0 +1,3 @@
+﻿  AES.cpp
+C:\Users\Mr Tokin\source\repos\AES\AES\AES.cpp(492,20): warning C4018: <: несоответствие типов со знаком и без знака
+  AES.vcxproj -> C:\Users\Mr Tokin\source\repos\AES\Debug\AES.exe
